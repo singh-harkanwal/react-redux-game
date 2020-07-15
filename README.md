@@ -3,5 +3,5 @@ This game is to search the treasure box in the forest. Users could use arrow key
 
 ![](https://github.com/eleganthtml/dungeon-crawler/blob/master/public/tiles/dungeon-crawler.png)
 
-Technologies used
+Technologies used: 
 ReactJS, Redux, ES6, and SASS
