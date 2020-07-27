@@ -10,7 +10,7 @@ const World = props => {
   } })
   return (
     <div>
-      <h1 className="text">Dungeon Crawler</h1>
+      <h1 className="text">React Redux Game</h1>
       <div
         style={{
           position:'relative',
